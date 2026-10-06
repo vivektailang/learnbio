@@ -1,0 +1,24 @@
+{
+  "menuName": "Programs",
+  "templateType": "tableLayout",
+  "items": [
+    {
+      "title": "Foundation",
+      "duration": "3 months",
+      "fee": "₹5,999",
+      "mode": "Offline + Online"
+    },
+    {
+      "title": "Board Mastery",
+      "duration": "6 months",
+      "fee": "₹9,499",
+      "mode": "Hybrid"
+    },
+    {
+      "title": "NEET Sprint",
+      "duration": "9 months",
+      "fee": "₹14,999",
+      "mode": "Online mentor-led"
+    }
+  ]
+}

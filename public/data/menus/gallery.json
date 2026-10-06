@@ -1,0 +1,18 @@
+{
+  "menuName": "Gallery",
+  "templateType": "galleryLayout",
+  "items": [
+    {
+      "title": "Lab sessions",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Mentor support",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Classroom Energy",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=900&q=80"
+    }
+  ]
+}

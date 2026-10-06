@@ -1,0 +1,12 @@
+{
+  "menuName": "Faculty",
+  "templateType": "profileLayout",
+  "items": [
+    {
+      "name": "Megha Goswami",
+      "role": "M.S. Medical Microbiology",
+      "bio": "Graduate of Kasturba Medical College, Manipal, Udupi. Currently serving as a lecturer at Sharda University, Noida, with a strong background in medical microbiology and academic teaching.",
+      "stats": ["Kasturba Medical College, Manipal", "Lecturer, Sharda University, Noida"]
+    }
+  ]
+}

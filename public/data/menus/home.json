@@ -1,0 +1,27 @@
+{
+  "menuName": "Home",
+  "templateType": "cardLayout",
+  "items": [
+    {
+      "title": "Foundation Batch",
+      "subtitle": "Class 9-10",
+      "description": "Concept-building and revision-focused coaching for core subjects.",
+      "highlight": "Most Popular",
+      "cta": "View plan"
+    },
+    {
+      "title": "Board Excellence",
+      "subtitle": "Class 10",
+      "description": "Performance tracking, intensive test practice, and doubt-solving workshops.",
+      "highlight": "Board Ready",
+      "cta": "Enroll now"
+    },
+    {
+      "title": "Olympiad Path",
+      "subtitle": "Science stream",
+      "description": "Critical thinking, applied problem solving, and mentoring for competitive prep.",
+      "highlight": "Advanced",
+      "cta": "Know more"
+    }
+  ]
+}

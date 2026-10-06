@@ -1,0 +1,65 @@
+{
+  "brand": "LearnBio",
+  "siteTitle": "Coaching Classes",
+  "hero": {
+    "eyebrow": "Academic growth",
+    "heading": "Build confidence for every board exam milestone.",
+    "description": "LearnBio supports students with structured classes, expert mentorship, and progress-led teaching designed for long-term performance.",
+    "primaryButton": "Explore {menuName}",
+    "secondaryButton": "Admin Portal"
+  },
+  "stats": [
+    {
+      "label": "Students coached",
+      "value": "100+"
+    },
+    {
+      "label": "Success rate",
+      "value": "100%"
+    },
+    {
+      "label": "Mentor ratio",
+      "value": "1:20"
+    }
+  ],
+  "common": {
+    "loading": "Loading website menu data...",
+    "noMenus": "No menu data is available yet.",
+    "preparingMenu": "Preparing menu content...",
+    "notFound": "This page could not be found.",
+    "backHome": "Back home",
+    "menuPage": "Menu page",
+    "adminLogin": "Admin Login",
+    "view": "View",
+    "itemsReady": "items ready to display",
+    "dynamicContentPage": "Dynamic content page"
+  },
+  "templateLabels": {
+    "program": "Program",
+    "duration": "Duration",
+    "fee": "Fee",
+    "mode": "Mode",
+    "defaultHighlight": "Program",
+    "defaultCta": "Learn more"
+  },
+  "admin": {
+    "pageTitle": "Admin access",
+    "heading": "Login to dashboard",
+    "userIdLabel": "User ID",
+    "passwordLabel": "Password",
+    "signIn": "Sign in",
+    "demo": "Demo credentials: admin@learnbio / learnbio123"
+  },
+  "dashboard": {
+    "pageTitle": "Dashboard",
+    "heading": "Menu Administration",
+    "logOut": "Log out",
+    "createTitle": "Create new menu",
+    "createSubtext": "Each menu is generated as a separate JSON file and stored in the browser.",
+    "menuNameLabel": "Menu name",
+    "templateLabel": "Template",
+    "itemsJsonLabel": "Items JSON",
+    "saveButton": "Save menu",
+    "existingMenus": "Existing menus"
+  }
+}

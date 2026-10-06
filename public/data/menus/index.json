@@ -1,0 +1,8 @@
+{
+  "menus": [
+    "home.json",
+    "faculty.json",
+    "programs.json",
+    "gallery.json"
+  ]
+}
