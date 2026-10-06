@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { BrowserRouter, Link, Navigate, Route, Routes, useNavigate, useParams } from 'react-router-dom'
+import { HashRouter, Link, Navigate, Route, Routes, useNavigate, useParams } from 'react-router-dom'
 
 const TEMPLATE_OPTIONS = ['cardLayout', 'profileLayout', 'tableLayout', 'galleryLayout']
 const ADMIN_STORAGE_KEY = 'learnbio-admin-token'
@@ -1054,7 +1054,7 @@ function AdminDashboardPage() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<AppLayout><HomePage /></AppLayout>} />
         <Route path="/menu/:menuName" element={<AppLayout><MenuView /></AppLayout>} />
@@ -1062,7 +1062,7 @@ function App() {
         <Route path="/admin/dashboard" element={<AppLayout><AdminDashboardPage /></AppLayout>} />
         <Route path="*" element={<AppLayout><Navigate to="/" replace /></AppLayout>} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
